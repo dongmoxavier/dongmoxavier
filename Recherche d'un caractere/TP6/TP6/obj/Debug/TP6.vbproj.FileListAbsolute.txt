@@ -1,0 +1,30 @@
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\bin\Debug\TP6.exe.config
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\bin\Debug\TP6.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\bin\Debug\TP6.pdb
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\bin\Debug\TP6.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.Form1.resources
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.Resources.resources
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.vbproj.GenerateResource.Cache
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP6\TP6\obj\Debug\TP6.pdb
+E:\D'AQUIN\TP6\TP6\bin\Debug\TP6.exe.config
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.exe
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.xml
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.pdb
+E:\D'AQUIN\TP6\TP6\bin\Debug\TP6.exe
+E:\D'AQUIN\TP6\TP6\bin\Debug\TP6.pdb
+E:\D'AQUIN\TP6\TP6\bin\Debug\TP6.xml
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.Form1.resources
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.Resources.resources
+E:\D'AQUIN\TP6\TP6\obj\Debug\TP6.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\bin\Debug\TP6.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.xml
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\bin\Debug\TP6.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\bin\Debug\TP6.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\bin\Debug\TP6.xml
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP6\TP6\obj\Debug\TP6.vbproj.GenerateResource.Cache
