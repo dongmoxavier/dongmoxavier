@@ -1,0 +1,14 @@
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\bin\Debug\TP8.exe.config
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\bin\Debug\TP8.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\bin\Debug\TP8.pdb
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\bin\Debug\TP8.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.Form1.resources
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.Resources.resources
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.vbproj.GenerateResource.Cache
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP8\TP8\obj\Debug\TP8.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP8\TP8\obj\Debug\TP8.xml
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP8\TP8\obj\Debug\TP8.pdb
