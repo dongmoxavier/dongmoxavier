@@ -3,8 +3,8 @@
 - 🌱 j'apprends actuellement la programmation et la Cybersecurite 
 - 💞️ Je serai ravi de collaborer avec vous sur des projets qui concernent mon domaine d'apprentissage 
 - 📫 Pour me contacter :
-  E-mail : dongmoxavier2@gmail.com
-  LinkedIn : https://www.linkedin.com/in/xavier-dongmo-a31893320/
+E-mail : dongmoxavier2@gmail.com
+LinkedIn : https://www.linkedin.com/in/xavier-dongmo-a31893320/
 
 <!---
 dongmoxavier/dongmoxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
