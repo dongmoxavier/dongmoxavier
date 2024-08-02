@@ -1,0 +1,14 @@
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\bin\Debug\TP5.exe.config
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\bin\Debug\TP5.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\bin\Debug\TP5.pdb
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\bin\Debug\TP5.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.Resources.resources
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.vbproj.GenerateResource.Cache
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.exe
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.xml
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.pdb
+c:\users\dongm\onedrive\documents\visual studio 2012\Projects\TP5\TP5\obj\Debug\TP5.Calculatrice.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP5\TP5\bin\Debug\TP5.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP5\TP5\obj\Debug\TP5.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP5\TP5\obj\Debug\TP5.xml
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\TP5\TP5\obj\Debug\TP5.pdb
