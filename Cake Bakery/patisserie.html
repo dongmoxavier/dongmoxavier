@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Lamine</title>
+    <link rel="stylesheet" href="patisserie.css"/>
+</head>
+
+<body>
+    <main>
+        <!-------------------------------------------------- En-tete -------------------------------------------------->
+        <nav>
+            <p class="logo">Cake Bakery</p>
+            <ul class="links nav">
+                <li><a href="#Home" class="link">Main</a></li>
+                <li><a href="#Catalog" class="link">Catalog</a></li>
+                <li><a href="#About" class="link">About Us</a></li>
+                <li><a href="#Special" class="link">Special Offer</a></li>
+                <li><a href="#Reviews" class="link">Reviews</a></li>
+                <li><a href="#Contacts" class="link">contacts</a></li>
+            </ul>
+            <div class="cta-phone">
+                <ion-icon name="call-outline"></ion-icon>
+                <p>+237 6 81 20 03 41</p>
+            </div>
+        </nav>
+
+        <!-------------------------------------------------- Accueil -------------------------------------------------->
+        <header class="home" id="Home">
+            <p>Delicious Cakes to order</p>
+            <button>Choose a cake</button>
+        </header>
+
+        <!-------------------------------------------------- Catalogue -------------------------------------------------->
+        <section class="catalog" id="Catalog">
+            <div class="title">
+                <p class="section-title">Our Catalog</p>
+                <ul class="links">
+                    <li><a href="#" class="link">Cakes</a></li>
+                    <li><a href="#" class="link">CupCakes</a></li>
+                    <li><a href="#" class="link">Cookies</a></li>
+                </ul>
+            </div>
+            <div class="catalog-card">
+                <div class="catalog-meta">
+                    <p class="card-title">Filling</p>
+                    <p class="card-text">You can choose one of six toopings for the case</p>
+                    <ul>
+                        <li>Snicker</li>
+                        <li>Red Velvet</li>
+                        <li>Choco Cheese</li>
+                        <li>Cherry Home</li>
+                        <li>Berry</li>
+                        <li>Bounty</li>
+                    </ul>
+                    <button class="catalog-button">To order</button>
+                </div>
+                <div class="catalog-img">
+                    <div class="card img1"></div>
+                    <div class="card img2"></div>
+                    <div class="card img3"></div>
+                    <div class="card img4"></div>
+                    <div class="card img5"></div>
+                    <div class="card img6"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-------------------------------------------------- A Propos -------------------------------------------------->
+        <section class="about" id="About">
+            <p class="section-title">About us</p>
+            <p>
+                We specialize in selling cakes, cupcakes and cookies to order, but we
+                also have two cozy cafes. In them you can't only try some of the best
+                cakes in our city. You can have a wonderful time with the whole
+                family. We allow people to order individual cakes according to their
+                design for any holiday.
+            </p>
+        </section>
+
+        <!-------------------------------------------------- Boulangerie -------------------------------------------------->
+        <section class="bakery" id="Bakery">
+            <div class="title">
+                <p class="section-title">Cake Bakery</p>
+            </div>
+
+            <div class="bakery-card" id="Special">
+                <div class="bakery-meta">
+                    <div class="card-flex">
+                        <p class="card-title">Special Offer</p>
+                        <p class="card-text">
+                            When you three cakes of 1 kilogram or two cakes of 1.5 kilogram,
+                            you get a kilogram cake at a gift
+                        </p>
+                        <button class="bakery-button">To order</button>
+                    </div>
+                </div>
+                <div class="bakery-img">
+                    <img src="Images/special-offer.jpg" alt="" />
+                </div>
+            </div>
+
+            <p class="quotation">"</p>
+
+            <div class="commentary" id="Reviews">
+                <p class="commentary-text">
+                    Wonderful Bakery!! It's always nice to sit in their cafe with a cup
+                    of tea and a piece of my favorite cake. I love Snickers filling.
+                    When it isn't possible to come in the cafe, I always use delivery.
+                    Cake bakeries always work quickly. Thanks
+                </p>
+                <p class="commentator-name">Xavier Dongmo</p>
+            </div>
+
+            <div class="cta-back" id="Contacts">
+                <div class="cta-card">
+                    <div class="cta-flex">
+                        <p class="cta-title">Our contacts</p>
+                        <div class="cta-form">
+                            <div class="form-lign">
+                                <p>Phone :</p>
+                                <p class="gras">+237 6 81 20 03 41</p>
+                            </div>
+                            <div class="form-lign">
+                                <p>E-mail :</p>
+                                <p class="gras">dongmoxavier2@gmail.com</p>
+                            </div>
+                            <div class="form-lign">
+                                <p>Adress :</p>
+                                <span>
+                                    <p class="gras">8526 Marconi Ave</p>
+                                    <p class="gras" class="trait">Corona, NY 11368</p>
+                                    <p class="gras">728 Howward Street</p>
+                                    <p class="gras">Station Island, NY 10314</p>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-------------------------------------------------- Application -------------------------------------------------->
+        <section class="application" id="Application">
+            <p class="section-title">Application</p>
+            <form>
+                <input type="text" placeholder="Your Name" required />
+                <input type="text" placeholder="Your Surname" required />
+                <input type="text" placeholder="Phone" required />
+                <input type="email" placeholder="E-mail" required />
+            </form>
+            <button>Send</button>
+        </section>
+    </main>
+
+    <!-------------------------------------------------- Pied de page -------------------------------------------------->
+    <footer>
+        <p class="logo">Cake Bakery</p>
+        <ul class="links footer">
+            <li><a href="#" class="link">Main</a></li>
+            <li><a href="#" class="link">Catalog</a></li>
+            <li><a href="#" class="link">About Us</a></li>
+            <li><a href="#" class="link">Special Offer</a></li>
+            <li><a href="#" class="link">Reviews</a></li>
+            <li><a href="#" class="link">contacts</a></li>
+        </ul>
+        <div class="icon">
+            <ion-icon name="logo-whatsapp"></ion-icon>
+            <ion-icon name="logo-facebook"></ion-icon>
+            <ion-icon name="logo-twitter"></ion-icon>
+            <ion-icon name="logo-instagram"></ion-icon>
+        </div>
+    </footer>
+
+    <!-------------------------------------------------- Packages d'icones -------------------------------------------------->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>
